@@ -1,2 +1,1 @@
-# saleor-app-starter
-Next.js starter for saleor apps
+Saleor App Starter
